@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xLuWox
-- 👀 I’m interested in programming and IT-Security
-- 🌱 I’m currently studying at : Mittweida University of Applied Sciences
+- 👀 I’m interested in programming , gaming and IT-Security
+- 🌱 I’m currently studying at: Mittweida University of Applied Sciences
 <!---- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me... --->
 
